@@ -3,7 +3,7 @@ import { Route } from "react-router-dom";
 import "./App.css";
 
 // Component
-import MainComponent from "./components/Main";
+import MainComponent from "./components/Main2";
 
 function App() {
   return (

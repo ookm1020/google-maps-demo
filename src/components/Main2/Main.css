@@ -1,0 +1,9 @@
+.Main {
+  display: flex;
+  text-align: center;
+}
+
+#map {
+  width: 1920px;
+  height: 100vh;
+}
